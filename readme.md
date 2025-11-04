@@ -2,8 +2,6 @@
 
 This is a sample on how to write Hello World in the terminal. 
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 C++
